@@ -559,3 +559,10 @@ D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
 D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
