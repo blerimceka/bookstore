@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkyBookWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -110,7 +111,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             var product = _unitOfWork.Product.GetFirstOrDefault(x => x.Id == id);
             if (product == null)
             {
-                return Json(new { success = false, message = "Error while deleting" });
+                return Json(new { success = false, message = "Error while deleting!" });
             }
             var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, product.ImageUrl.TrimStart('\\'));
             if (System.IO.File.Exists(oldImagePath))
